@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Folly/folly/Optional.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Folly/folly/Portability.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Folly/folly/CPortability.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Folly/folly/Traits.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Folly/folly/Utility.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/NEON/appneon/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

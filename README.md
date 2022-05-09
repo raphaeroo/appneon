@@ -5,7 +5,5 @@
 
 ## Contatos
 
-email: o.raphaelfreitas@gmail.com
-telefone: (11) 942453563
 repositorio: https://github.com/raphaeroo
 
